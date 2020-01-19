@@ -9,7 +9,10 @@
             "email": "1075173642@qq.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=7.0.0",
+        "encore/laravel-admin": "~1.6"
+    },
     "autoload": {
         "psr-4": {
             "Lizeng\\Im\\": "src/"
