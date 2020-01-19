@@ -16,4 +16,4 @@
 
 测试：
 
-    http://localhost/hello/张三
+    http://localhost/hello
