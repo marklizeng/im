@@ -1,4 +1,4 @@
 <?php
 Route::get('hello', function (){
-    echo 1;
+    echo '测试更新';
 });
