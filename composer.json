@@ -2,6 +2,7 @@
     "name": "lizeng/im",
     "description": "Chat system based on swoole",
     "homepage": "https://github.com/marklizeng/im.git",
+    "version": "v1.0.1",
     "license": "MIT",
     "authors": [
         {
