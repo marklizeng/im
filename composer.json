@@ -1,11 +1,21 @@
 {
     "name": "lizeng/im",
     "description": "Chat system based on swoole",
+    "homepage": "https://github.com/marklizeng/im.git",
+    "license": "MIT",
     "authors": [
         {
             "name": "lizeng",
             "email": "1075173642@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Lizeng\\Im\\ImServiceProvider"
+            ]
+
+        }
+    }
 }
